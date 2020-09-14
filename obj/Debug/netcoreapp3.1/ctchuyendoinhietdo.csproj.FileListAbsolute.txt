@@ -1,0 +1,13 @@
+C:\LN\ctchuyendoinhietdo\bin\Debug\netcoreapp3.1\ctchuyendoinhietdo.exe
+C:\LN\ctchuyendoinhietdo\bin\Debug\netcoreapp3.1\ctchuyendoinhietdo.deps.json
+C:\LN\ctchuyendoinhietdo\bin\Debug\netcoreapp3.1\ctchuyendoinhietdo.runtimeconfig.json
+C:\LN\ctchuyendoinhietdo\bin\Debug\netcoreapp3.1\ctchuyendoinhietdo.runtimeconfig.dev.json
+C:\LN\ctchuyendoinhietdo\bin\Debug\netcoreapp3.1\ctchuyendoinhietdo.dll
+C:\LN\ctchuyendoinhietdo\bin\Debug\netcoreapp3.1\ctchuyendoinhietdo.pdb
+C:\LN\ctchuyendoinhietdo\obj\Debug\netcoreapp3.1\ctchuyendoinhietdo.csprojAssemblyReference.cache
+C:\LN\ctchuyendoinhietdo\obj\Debug\netcoreapp3.1\ctchuyendoinhietdo.AssemblyInfoInputs.cache
+C:\LN\ctchuyendoinhietdo\obj\Debug\netcoreapp3.1\ctchuyendoinhietdo.AssemblyInfo.cs
+C:\LN\ctchuyendoinhietdo\obj\Debug\netcoreapp3.1\ctchuyendoinhietdo.csproj.CoreCompileInputs.cache
+C:\LN\ctchuyendoinhietdo\obj\Debug\netcoreapp3.1\ctchuyendoinhietdo.dll
+C:\LN\ctchuyendoinhietdo\obj\Debug\netcoreapp3.1\ctchuyendoinhietdo.pdb
+C:\LN\ctchuyendoinhietdo\obj\Debug\netcoreapp3.1\ctchuyendoinhietdo.genruntimeconfig.cache
